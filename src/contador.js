@@ -18,4 +18,4 @@ return (
   </div>
 );
 }
-export default contador;
+export default contador
