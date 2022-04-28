@@ -7,6 +7,8 @@ function App() {
     <div className="App">
       <h1>LISTA DE POST</h1>
       <h2>{contador}</h2>
+      <button>+</button>
+      <button>-</button>
     </div>
   );
 }
