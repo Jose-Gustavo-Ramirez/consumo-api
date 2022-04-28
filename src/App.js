@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>MI APLICACION DE REACT Y API</h1>
+      <h1>LISTA DE POST</h1>
     </div>
   );
 }
