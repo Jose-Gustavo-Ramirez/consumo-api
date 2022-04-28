@@ -2,7 +2,7 @@
 import "./Contador";
 
 function App() {
-return <contador/>
+return <Contador/>
  
 }
 
