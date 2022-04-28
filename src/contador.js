@@ -1,8 +1,8 @@
 import { useState } from "react";
-import './contador.css'
+import './Contador.css'
 
 function Contador() {
-const [Contador, setContador] = useState(0);
+const [contador, setContador] = useState(0);
 
 //funcion de flecha
 const incremento = (previo) =>{return previo + 1};

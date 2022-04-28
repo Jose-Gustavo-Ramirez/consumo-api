@@ -1,8 +1,8 @@
 
-import "./contador";
+import "./Contador";
 
 function App() {
-return <Contador/>
+//return <Contador/>
  
 }
 
