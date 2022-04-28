@@ -1,5 +1,5 @@
 
-import "./contador";
+import "./Contador";
 
 function App() {
 return <contador/>
