@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import './App.css'
 function App() {
 
   const [contador, setcontador] = useState(0);
@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <h1>LISTA DE POST</h1>
       <h2>{contador}</h2>
-      <button>+</button>
-      <button>-</button>
+      <button className="incremento">+</button>
+      <button className="menos">-</button>
     </div>
   );
 }
